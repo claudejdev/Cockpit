@@ -46,24 +46,28 @@ Later on, this project will be rinsed and repeated, with other tech solutions, a
 - [x] Set up the folder structure
 ###### Analyze the requirements
 - [Ongoing] Which data will be displayed
-- [Ongoing] Which pages will I need
+- [x] Which pages will I need
 ###### First iteration
 - [x] Set up the index page
 - [x] Include the custom CCS & scripts
 - [x] Include framework
 - [x] Include the libraries
 #### Guidelines
-- Commencer un projet, sur base de html bootstrap, en partant de 0, qui doit contenir : 
-- [ ] un sidebar, (voir collapse, toggle -> CSS OU JS)
-- [ ] un menu dans le footer
-- [ ] un footer avec système de contact
-- [x] un page de présentation de graphique !  ATTENTION : il faut chercher après la bonne librairie JS (chart JS)
-- [x] un tableau de données fictives
-- [ ] les différents graphiques d'analyses de notre projet, seront réunis dans la sidebar sous forme de lien pour les avoir (collapse)
-- [x] Trouver également le moyen d'afficher des icônes sur le menu, ou autre part (voir font awesome)
-- [x] la police du site, devra être pro ! (lisible)
-- [x] la palette de couleur utilisée, ne devra contenir QUE 3 couleurs, noir et blanc non compris
-- [ ] il faudra compter au minimum, 3 graphiques différents, attention que les données des graph seront probablement en JSON
+    > Commencer un projet, sur base de html bootstrap, en partant de 0, qui doit contenir : 
+- [ ] Navigation
+    - [ ] un sidebar, (voir collapse, toggle -> CSS OU JS)
+    - [ ] les différents graphiques d'analyses de notre projet, seront réunis dans la sidebar sous forme de lien pour les avoir (collapse)
+    - [x] Trouver également le moyen d'afficher des icônes sur le menu, ou autre part (voir font awesome)
+    - [x] un menu dans le footer
+    - [ ] un footer avec système de contact
+- [ ] Visualisation
+    - [x] un page de présentation de graphique !  ATTENTION : il faut chercher après la bonne librairie JS (chart JS)
+    - [x] un tableau de données fictives
+    - [ ] il faudra compter au minimum, 3 graphiques différents, attention que les données des graph seront probablement en JSON
+- [ ] UI
+    - [x] la police du site, devra être pro ! (lisible)
+    - [x] la palette de couleur utilisée, ne devra contenir QUE 3 couleurs, noir et blanc non compris
+
 
 ### Bonus
 - [ ] Accessibility
