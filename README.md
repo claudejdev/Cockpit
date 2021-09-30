@@ -55,9 +55,10 @@ Later on, this project will be rinsed and repeated, with other tech solutions, a
 #### Guidelines
     > Commencer un projet, sur base de html bootstrap, en partant de 0, qui doit contenir : 
 - [ ] Navigation
-    - [ ] un sidebar, (voir collapse, toggle -> CSS OU JS)
-    - [ ] les différents graphiques d'analyses de notre projet, seront réunis dans la sidebar sous forme de lien pour les avoir (collapse)
+    - [x] une sidebar
+    - [x] les différents graphiques d'analyses de notre projet, seront réunis dans la sidebar sous forme de lien pour les avoir
     - [x] Trouver également le moyen d'afficher des icônes sur le menu, ou autre part (voir font awesome)
+    - [ ] la sidebar est repliable (voir collapse, toggle -> CSS OU JS)
     - [x] un menu dans le footer
     - [x] un footer avec système de contact
 - [ ] Visualisation
@@ -67,9 +68,9 @@ Later on, this project will be rinsed and repeated, with other tech solutions, a
 - [x] UI
     - [x] la police du site, devra être pro ! (lisible)
     - [x] la palette de couleur utilisée, ne devra contenir QUE 3 couleurs, noir et blanc non compris
-
-
 ### Bonus
+- [ ] Improve the bottom menu
+- [ ] Get datas from an API
 - [ ] Accessibility
 - [ ] Create a logo
 - [ ] Create a favicon
