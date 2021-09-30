@@ -11,7 +11,7 @@
     - [Sources](#sources)
   - [Todo](#todo)
       - [Setting up](#setting-up)
-          - [Analyse the requirements](#analyse-the-requirements)
+          - [Analyze the requirements](#analyze-the-requirements)
           - [First iteration](#first-iteration)
       - [Guidelines](#guidelines)
     - [Bonus](#bonus)
@@ -40,13 +40,12 @@ Later on, this project will be rinsed and repeated, with other tech solutions, a
 - [Dashboard Template · Bootstrap v5.1](https://getbootstrap.com/docs/5.1/examples/dashboard/)
 
 ## Todo
-
 #### Setting up
-- [x] Initialise the repo
-- [x] Set up the readme, import the tasks to perform
+- [x] Initialize the repo
+- [x] Set up the README, import the tasks to perform
 - [x] Set up the folder structure
-###### Analyse the requirements
-- [Ongoing] Which datas will be displayed
+###### Analyze the requirements
+- [Ongoing] Which data will be displayed
 - [Ongoing] Which pages will I need
 ###### First iteration
 - [x] Set up the index page
